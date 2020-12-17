@@ -1,5 +1,4 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=fkcailiniyazi&show_icons=true&icon_color=278ECF&text_color=718096&bg_color=f7f7f7&hide_title=true" />
 ### Hi there 👋 , welcome, I am Ailiniyazi Maimaiti(Memeteli Niyaz), Web Developer. Besides of Chinese, Uyghur, Turkish, German and English, I also speak JavaScript, Java and PHP....
 
 <a href="https://github.com/fkcailiniyazi"><img src="https://img.shields.io/github/followers/fkcailiniyazi.svg?label=GitHub&style=social" alt="GitHub"></a>
