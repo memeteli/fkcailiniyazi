@@ -11,7 +11,7 @@ I am Ailiniyazi Maimaiti(Memeteli Niyaz), Web Developer. Besides of Chinese, Uyg
 ---
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fkcailiniyazi&show_icons=true&title_color=24292e&icon_color=40c463&text_color=24292e&bg_color=fff&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkcailiniyazi&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkcailiniyazi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
