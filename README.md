@@ -1,6 +1,6 @@
 
 ### Hi there 👋, welcome
-I am Ailiniyazi Maimaiti(Memeteli Niyaz), Web Developer. Besides of Chinese, Uyghur, Turkish, German and English, I also speak JavaScript, Java and PHP....
+I am Ailiniyazi Maimaiti(Memeteli Niyaz), Web Developer. Besides of Uyghur, Chinese, Turkish, German and English, I also speak JavaScript, Java and PHP....
 
 <span><a href="https://github.com/fkcailiniyazi"><img src="https://img.shields.io/github/followers/fkcailiniyazi.svg?label=GitHub&style=social" alt="GitHub"></a></span>
 <span><a href="https://www.linkedin.com/in/ailiniyazi-maimaiti-6b4382190/">
