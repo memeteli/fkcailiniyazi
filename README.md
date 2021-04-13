@@ -36,7 +36,7 @@ I am Ailiniyazi Maimaiti(Memeteli Niyaz), Web Developer. Besides of Uyghur, Chin
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fkcailiniyazi&show_icons=true&title_color=24292e&icon_color=40c463&text_color=24292e&bg_color=fff&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkcailiniyazi&langs_count=5)](https://github.com/fkcailiniyazi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkcailiniyazi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
